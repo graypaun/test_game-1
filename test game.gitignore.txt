@@ -1,0 +1,41 @@
+# Unity cache  build  temp files
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds
+[Ll]ogs
+MemoryCaptures
+
+# Auto-generated project files
+.csproj
+.unityproj
+.sln
+.suo
+.tmp
+.user
+.userprefs
+.pidb
+.booproj
+.svd
+
+# Unity IDE settings
+.vs
+.idea
+.idea
+.sln.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash Reports
+crashlytics
+.stacktrace
+
+# Unity cache files
+.pidb.meta
+.pdb
+.mdb
+.opendb
